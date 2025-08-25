@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'am Ibnu Adiwangsa</h1>
+<p align="center">I am a beginner developer who is always learning new things😆</p>
 
-<!--
-**ibnnz/ibnnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://i.imgur.com/rVyjJhG.jpeg" alt="minecraft" width="50%">
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibnnz&color=red" alt="ArselAdy283" /></p>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,tailwind,php,mysql,discord,git,github,vscode" />
+  </a>
+</p>
